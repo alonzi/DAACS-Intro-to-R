@@ -12,7 +12,8 @@ Everyone will:
 2. Lower your hand if you started programming within the last 5 years
 3. Lower your hand if you started programming in the last 10 years
 .....
-?. Everyone look at the last person with their hand up
+
+Everyone look at the last person with their hand up
 
 ## Part I: Getting up and Running
 In this part we will spend our time getting our R and Rstudio environments up and running.
