@@ -8,10 +8,17 @@ Everyone will:
 3. be equipped to find solutions to the problems they encounter using R.
 
 ## Definitions
-1. R - public beta (2011), version 1.0 (2016), current version 1.4.
-2. RStudio
+1. R - 
+2. RStudio - public beta (2011), version 1.0 (2016), current version 1.4.
 3. RStudio Desktop
 4. Rstudio Cloud
+5. IDE
+6. CRAN
+7. Tidyverse
+8. RMarkdown
+9. knitr
+10. RStudio, PBC - RStudio Public-benefit corporation
+11. The R foundation - [link](https://www.r-project.org/foundation/)
 
 ## Resources
 * [R wikipedia page](https://en.wikipedia.org/wiki/R_(programming_language))
