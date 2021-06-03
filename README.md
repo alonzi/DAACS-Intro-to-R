@@ -10,7 +10,7 @@ Everyone will:
 ## Definitions
 1. R - 
 11. The R foundation - [link](https://www.r-project.org/foundation/)
-2. RStudio - public beta (2011), version 1.0 (2016), current version 1.4.
+2. RStudio, software - public beta (2011), version 1.0 (2016), current version 1.4.
 10. RStudio, PBC - RStudio Public-benefit corporation - [link](https://www.rstudio.com/about/)
 3. RStudio Desktop
 4. Rstudio Cloud
