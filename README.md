@@ -8,7 +8,7 @@ Everyone will:
 3. be equipped to find solutions to the problems they encounter using R.
 
 ## Definitions
-1. R - A programming language designed for statistical computing ([top 15 of all programming languages](https://www.tiobe.com/tiobe-index/)) - debut 1993, "next generation of S"
+1. R - A programming language designed for statistical computing ([top 15 of all programming languages](https://www.tiobe.com/tiobe-index/)) - debut 1993, "next generation S"
 11. The R foundation - [link](https://www.r-project.org/foundation/)
 2. RStudio, software - The premire IDE for R: public beta (2011), version 1.0 (2016), current version 1.4.
 10. RStudio, PBC - RStudio Public-benefit corporation - [link](https://www.rstudio.com/about/)
