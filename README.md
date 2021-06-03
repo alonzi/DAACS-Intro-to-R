@@ -1,11 +1,24 @@
 # DAACS-Intro-to-R
-This repository contains the materials for the DAACS Summer School 2021 lessons on Introduction to R and R Studio.
+This repository contains the materials for the DAACS Summer School 2021 lessons on Introduction to R and R Studio. It is meant to be followed through as the lesson and then reviewed later as reference materials.
 
 ## Goals
 Everyone will:
 1. leave the lesson with a functional R environment using RStudio.
 2. be comfortable or at least on their way to being comfortable with R and Rstudio.
 3. be equipped to find solutions to the problems they encounter using R.
+
+### Quick Poll
+1. Everyone raise your hand
+2. Lower your hand if you started programming within the last 5 years
+3. Lower your hand if you started programming in the last 10 years
+.....
+?. Everyone look at the last person with their hand up
+
+## Part I: Getting up and Running
+In this part we will spend our time getting our R and Rstudio environments up and running.
+1. Go [here to download R and RStudio](https://www.rstudio.com/products/rstudio/download/#download) - **NB** They are separate downloads and installs
+2. Alternatively [make an account on RStudio Cloud](https://rstudio.cloud/)
+
 
 ## Definitions
 1. R - A programming language designed for statistical computing ([top 15 of all programming languages](https://www.tiobe.com/tiobe-index/)) - debut 1993, "next generation S"
