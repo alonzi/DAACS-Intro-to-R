@@ -25,10 +25,10 @@ Everyone will:
 * [R wikipedia page](https://en.wikipedia.org/wiki/R_(programming_language))
 * [RStudio wikipedia page](https://en.wikipedia.org/wiki/RStudio)
 * [R and Rstudio download page](https://www.rstudio.com/products/rstudio/download/#download)
+* [Rstudio cloud](https://rstudio.cloud/)
 * [Working directory wikipedia page](https://www.rstudio.com/products/rstudio/download/#download)
 * The best book for learning R: [R for Data Science](https://r4ds.had.co.nz/)
 * [Software Carpentry Introduction to R and Rstudio](https://swcarpentry.github.io/swc-releases/2016.06/r-novice-gapminder/01-rstudio-intro/)
-* [Rstudio cloud](https://rstudio.cloud/)
 
 # License
 ![](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/2880px-Cc-by-nc-sa_icon.svg.png)
