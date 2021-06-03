@@ -9,7 +9,9 @@ Everyone will:
 
 ## Definitions
 1. R - 
+11. The R foundation - [link](https://www.r-project.org/foundation/)
 2. RStudio - public beta (2011), version 1.0 (2016), current version 1.4.
+10. RStudio, PBC - RStudio Public-benefit corporation - [link](https://www.rstudio.com/about/)
 3. RStudio Desktop
 4. Rstudio Cloud
 5. IDE
@@ -17,8 +19,6 @@ Everyone will:
 7. Tidyverse
 8. RMarkdown
 9. knitr
-10. RStudio, PBC - RStudio Public-benefit corporation
-11. The R foundation - [link](https://www.r-project.org/foundation/)
 
 ## Resources
 * [R wikipedia page](https://en.wikipedia.org/wiki/R_(programming_language))
