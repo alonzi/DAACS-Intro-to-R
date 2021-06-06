@@ -123,6 +123,9 @@ Sometimes you may hear people talk about different parts of the R universe. The 
 
 
 ## Variables
+
+introduce typeof(...)
+
 1. WWWWWH
 2. Leading activity 3
 ## Data Structures
