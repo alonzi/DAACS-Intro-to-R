@@ -111,9 +111,18 @@ From time to time your installation of R will not know about a package. For inst
 
 When I put in `?ca` i got this ---> `No documentation for ‘ca’ in specified packages and libraries`
 
+If that is the case you need to install the package, this is different from loading it. Using a package is a two step process. And to do both steps we use ..... that's right functions.
+
+1. install.packages('ca')
+2. library(ca)
+
+** Mini rant time ** - So in the first place we use `install.packages`, but then to load we use `library` and also the first time we put the name of the package in quotes? But the good news is we could have used the quotes inside of library. So that's cool but we can't not use the quotes inside of install.packages? I give up.
 
 ### Jargon Corner
 Base R vs TidyR
+
+
+
 ## Variables
 1. WWWWWH
 2. Leading activity 3
