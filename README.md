@@ -29,6 +29,14 @@ In this part we will spend our time getting our R and Rstudio environments up an
 
 # Part II: The building blocks
 ## Functions
+In R a function is your main tool. Every function is designed to do one specific thing and hopefully has a name that makes it clear what the function does.
+
+**For example** there is a function called 'c'. **facepalm emoji** I would argue that it is impossible to guess what that function does from its name. Let's introduce our first R helper. '?'
+
+Enter `?c`
+
+
+
 1. WWWWWH
 2. Using
 3. Leading activity 1
