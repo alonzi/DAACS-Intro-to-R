@@ -62,11 +62,17 @@ Everytime a function is used there is a name followed by a '('
 Now let's go hunting
 
 1. Click on this link ---> [link](https://github.com/TJF-Monticello/Chronology/blob/master/MCD-CA%20Code/CA_MCD_URCode.R)
+2. Read the code but don't try to understand anything, just identify functions. For everyone you see write down the line number and the function
+    * eg: line 10, library
+    * eg: line 11, library
+    * eg: line 33, dbGetQuery
+
+3. Ask yourself, what percent of lines in this code have a function?
 
 
-1. WWWWWH
-2. Using
-3. Leading activity 1
+That's the thing about R programming. Everything you do is a function. (for the nerds: we call R programming 'functional')
+
+
 ## Packages (aka bundles of functions)
 1. WWWWWH
 2. Installing
