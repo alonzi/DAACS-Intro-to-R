@@ -28,11 +28,14 @@ In this part we will spend our time getting our R and Rstudio environments up an
 2. working directories and paths and files ..... oh my.
 
 # Part II: The building blocks
+In this part we will get to know the main R building blocks: Functions, Packages, Variables, and Data Structures. More importantly we will learn some R helpers, double most importantly '?'.
+
 ## Functions
 In R a function is your main tool. Every function is designed to do one specific thing and hopefully has a name that makes it clear what the function does.
 
 **For example** there is a function called 'c'. **facepalm emoji** I would argue that it is impossible to guess what that function does from its name. Let's introduce our first R helper. '?'
 
+### Exercise
 Enter `?c`
 
 
