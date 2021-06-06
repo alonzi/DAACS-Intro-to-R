@@ -36,7 +36,18 @@ In R a function is your main tool. Every function is designed to do one specific
 **For example** there is a function called 'c'. **facepalm emoji** I would argue that it is impossible to guess what that function does from its name. Let's introduce our first R helper. '?'
 
 ### Exercise
-Enter `?c`
+1. Enter `?c`
+2. Read the Description from the documentation
+3. Answer the question to yourself, "Did that description make me more or less confused?"
+    * if you are less confused ask yourself "What does this function do?"
+    * if you are more confused make a note of your new questions
+
+### Exercise
+Let's take a swing at a different function: sum(...)
+1. Enter `sum(1,2,3,4)`
+2. What does R return?
+3. Is this what you expected?
+
 
 
 
