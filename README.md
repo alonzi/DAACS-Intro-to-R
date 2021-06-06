@@ -124,12 +124,15 @@ Sometimes you may hear people talk about different parts of the R universe. The 
 
 ## Variables
 
-introduce typeof(...)
-if we haven't gotten error messages yet fabricate one
+* introduce typeof(...)
+* if we haven't gotten error messages yet fabricate one
 
 1. WWWWWH
 2. Leading activity 3
 ## Data Structures
+
+** bigtime heavy use of the variable explorer
+
 1. WWWWWH
 2. Leading activity 4
 
