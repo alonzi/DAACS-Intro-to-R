@@ -47,6 +47,7 @@ Let's take a swing at a different function: sum(...)
 1. Enter `sum(1,2,3,4)`
 2. What does R return?
 3. Is this what you expected?
+4. Investigate sum, enter `?sum`
 
 
 
