@@ -49,7 +49,19 @@ Let's take a swing at a different function: sum(...)
 3. Is this what you expected?
 4. Investigate sum, enter `?sum`
 
+### Exercise: Recognizing functions in the wild
+In this exercise we will attempt to do one thing. Find functions in code. Fortunately there is a feature that makes functions stick out. When you use a function it is a name followed immediately by a '('.
 
+For Example:
+* c(1,2,3)
+* sum(1,2,3)
+* EstimateMCD(dataForMCD$unitData, dataForMCD$typeData)
+
+Everytime a function is used there is a name followed by a '('
+
+Now let's go hunting
+
+1. Click on this link ---> [link](https://github.com/TJF-Monticello/Chronology/blob/master/MCD-CA%20Code/CA_MCD_URCode.R)
 
 
 1. WWWWWH
