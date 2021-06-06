@@ -24,7 +24,7 @@ In this part we will spend our time getting our R and Rstudio environments up an
 1. Pete will lead a guided tour of RStudio - (core takeaway: type code into console and see what happens)
 2. Everyone else will interrupt Pete with questions
 ## Environment Test
-1. 'hello world'
+1. write our first program - 'hello world'
 2. working directories and paths and files ..... oh my.
 
 # Part II: The building blocks
