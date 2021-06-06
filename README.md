@@ -85,6 +85,7 @@ In this exercise we will make a list of all the packages used in our example cod
 2. Write down all of the libraries that are loaded in this code.
 
 
+
 Answer: 
 library(RPostgreSQL)
 library(dplyr)
@@ -96,10 +97,21 @@ library(ggplot2)
 library(viridis)
 library(ggrepel)
 
-1. WWWWWH
-2. Installing
-3. Using
-4. Leading activity 2
+
+
+### Exercise
+Now let's figure out what this code does.
+
+1. Take a look at the package names and use your helper '?'
+2. Now describe what this code does.
+
+
+### Exercise - installing
+From time to time your installation of R will not know about a package. For instance mine didn't know about 'ca'
+
+When I put in `?ca` i got this ---> `No documentation for ‘ca’ in specified packages and libraries`
+
+
 ### Jargon Corner
 Base R vs TidyR
 ## Variables
