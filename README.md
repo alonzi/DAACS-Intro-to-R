@@ -76,6 +76,26 @@ That's the thing about R programming. Everything you do is a function. (for the 
 
 
 ## Packages (aka bundles of functions)
+Packages are bundles of functions. There is more going on but for the moment a package is a bundle of functions. Also the word package is used more or less interchangably with other terms like 'library'. You can tell if some code uses a package by seeing where the package is loaded (sometimes called 'imported'). That happen's when you use the library function `library(...)`. The name of the package to load is put in the function eg: `library(RPostgreSQL)`.
+
+### Exercise
+In this exercise we will make a list of all the packages used in our example code.
+
+1. Click on this link ---> [link](https://github.com/TJF-Monticello/Chronology/blob/master/MCD-CA%20Code/CA_MCD_URCode.R)
+2. Write down all of the libraries that are loaded in this code.
+
+
+Answer: 
+library(RPostgreSQL)
+library(dplyr)
+library(tidyr)
+library(reshape2)
+library (ca)
+library (plotrix)
+library(ggplot2)
+library(viridis)
+library(ggrepel)
+
 1. WWWWWH
 2. Installing
 3. Using
