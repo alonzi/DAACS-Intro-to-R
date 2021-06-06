@@ -61,8 +61,9 @@ Everytime a function is used there is a name followed by a '('
 
 Now let's go hunting
 
-1. Click on this link ---> [link](https://github.com/TJF-Monticello/Chronology/blob/master/MCD-CA%20Code/CA_MCD_URCode.R)
-2. Read the code but don't try to understand anything, just identify functions. For everyone you see write down the line number and the function
+1. We are going to look at some code but ... you have one job ... identify functions. Resist the temptation to understand what the code does.
+2. Click on this link ---> [link](https://github.com/TJF-Monticello/Chronology/blob/master/MCD-CA%20Code/CA_MCD_URCode.R)
+3. Read the code but don't try to understand anything, just identify functions. For everyone you see recordn the line number and the function
     * eg: line 10, library
     * eg: line 11, library
     * eg: line 33, dbGetQuery
@@ -70,7 +71,8 @@ Now let's go hunting
 3. Ask yourself, what percent of lines in this code have a function?
 
 
-That's the thing about R programming. Everything you do is a function. (for the nerds: we call R programming 'functional')
+### Takeaway
+That's the thing about R programming. Everything you do is a function. (for the nerds: we call R programming 'functional'). The key step here is recognizing a function when you see one.
 
 
 ## Packages (aka bundles of functions)
