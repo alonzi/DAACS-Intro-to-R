@@ -27,7 +27,7 @@ In this part we will spend our time getting our R and Rstudio environments up an
 1. write our first program - 'hello world'
 2. working directories and paths and files ..... oh my.
 
-# Part II: The building blocks
+# Part II: Reading code
 In this part we will get to know the main R building blocks: Functions, Packages, Variables, and Data Structures. More importantly we will learn some R helpers, double most importantly '?'.
 
 ## Functions
@@ -122,6 +122,7 @@ If that is the case you need to install the package, this is different from load
 Sometimes you may hear people talk about different parts of the R universe. The term 'BaseR' refers to everything that comes with R. You may have noticed in the documentation for `c` and `sum` that is said it came from `base`. Another major part is called the **tidyverse**. WoooooOOOOOooooOOOOOO. There is a movement in the R world that introduced the concept of data being 'tidy' and there is a whole pile of tools for helping you to do just that. You may recall one of the libraries we saw in our example code was called `tidyr`. If you punch in `?tidyr` you will see more. I have many thoughts about this approach and it is not always wise, but they are the folks behing RStudio so it's cool.
 
 
+# Part III: Investigating Code
 ## Variables
 
 * introduce typeof(...)
@@ -136,7 +137,7 @@ Sometimes you may hear people talk about different parts of the R universe. The 
 1. WWWWWH
 2. Leading activity 4
 
-# Part III: Write a script to do a scientific task
+# Part IV: Using code to accomplish a task
 For this part everyone breaks up into pairs and tackles different scientific tasks.
 
 ## Definitions
