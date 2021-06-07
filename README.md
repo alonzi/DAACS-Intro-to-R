@@ -123,19 +123,13 @@ Sometimes you may hear people talk about different parts of the R universe. The 
 
 
 # Part III: Investigating Code
-## Variables
+## Variables and Data Structures
 
 * introduce typeof(...)
 * if we haven't gotten error messages yet fabricate one
 
 1. WWWWWH
 2. Leading activity 3 - sandbox play with MCDTypeTable (from line 26 in example code)
-## Data Structures
-
-** bigtime heavy use of the variable explorer
-
-1. WWWWWH
-2. Leading activity 4
 
 # Part IV: Using code to accomplish a task
 For this part everyone breaks up into pairs and tackles different scientific tasks.
