@@ -88,7 +88,8 @@ If that is the case you need to install the package, this is different from load
 1. install.packages('ca')
 2. library(ca)
 
-** Mini rant time ** - So in the first place we use `install.packages`, but then to load we use `library` and also the first time we put the name of the package in quotes? But the good news is we could have used the quotes inside of library. So that's cool but we can't not use the quotes inside of install.packages? I give up.
+### Mini rant time
+So in the first place we use `install.packages`, but then to load we use `library` and also the first time we put the name of the package in quotes? But the good news is we could have used the quotes inside of library. So that's cool but we can't not use the quotes inside of install.packages? I give up.
 
 ### Jargon Corner -- BaseR vs TidyR
 Sometimes you may hear people talk about different parts of the R universe. The term 'BaseR' refers to everything that comes with R. You may have noticed in the documentation for `c` and `sum` that is said it came from `base`. Another major part is called the **tidyverse**. WoooooOOOOOooooOOOOOO. There is a movement in the R world that introduced the concept of data being 'tidy' and there is a whole pile of tools for helping you to do just that. You may recall one of the libraries we saw in our example code was called `tidyr`. If you punch in `?tidyr` you will see more. I have many thoughts about this approach and it is not always wise, but they are the folks behing RStudio so it's cool.
