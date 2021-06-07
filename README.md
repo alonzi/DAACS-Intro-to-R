@@ -18,11 +18,11 @@ Everyone look at the last person with their hand up
 
 # Table of Contents
 
-* Part I
-* Part II
-* Part III
-* Part IV
-* Reference
+* Part I - [link](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/part-I.md)
+* Part II - [link](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/part-II.md)
+* Part III - [link](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/part-III.md)
+* Part IV - [link](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/part-IV.md)
+* Reference - [link](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/reference.md)
 
 
 
