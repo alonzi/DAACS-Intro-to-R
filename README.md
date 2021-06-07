@@ -128,7 +128,7 @@ Sometimes you may hear people talk about different parts of the R universe. The 
 * if we haven't gotten error messages yet fabricate one
 
 1. WWWWWH
-2. Leading activity 3
+2. Leading activity 3 - sandbox play with MCDTypeTable (from line 26 in example code)
 ## Data Structures
 
 ** bigtime heavy use of the variable explorer
