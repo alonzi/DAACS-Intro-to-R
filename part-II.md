@@ -7,21 +7,21 @@ In R a function is your main tool. Every function is designed to do one specific
 
 **For example** there is a function called 'c'. **facepalm emoji** I would argue that it is impossible to guess what that function does from its name. Let's introduce our first R helper. '?'
 
-### Exercise
+### Exercise 1
 1. Enter `?c`
 2. Read the Description from the documentation
 3. Answer the question to yourself, "Did that description make me more or less confused?"
     * if you are less confused ask yourself "What does this function do?"
     * if you are more confused make a note of your new questions
 
-### Exercise
+### Exercise 2
 Let's take a swing at a different function: sum(...)
 1. Enter `sum(1,2,3,4)`
 2. What does R return?
 3. Is this what you expected?
 4. Investigate sum, enter `?sum`
 
-### Exercise: Recognizing functions in the wild
+### Exercise 3: Recognizing functions in the wild
 In this exercise we will attempt to do one thing. Find functions in code. Fortunately there is a feature that makes functions stick out. When you use a function it is a name followed immediately by a '('.
 
 For Example:
@@ -50,7 +50,7 @@ That's the thing about R programming. Everything you do is a function. (for the 
 ## Packages (aka bundles of functions)
 Packages are bundles of functions. There is more going on but for the moment a package is a bundle of functions. Also the word package is used more or less interchangably with other terms like 'library'. You can tell if some code uses a package by seeing where the package is loaded (sometimes called 'imported'). That happen's when you use the library function `library(...)`. The name of the package to load is put in the function eg: `library(RPostgreSQL)`.
 
-### Exercise
+### Exercise 4
 In this exercise we will make a list of all the packages used in our example code.
 
 1. Click on this link ---> [link](https://github.com/TJF-Monticello/Chronology/blob/master/MCD-CA%20Code/CA_MCD_URCode.R)
@@ -71,14 +71,14 @@ library(ggrepel)
 
 
 
-### Exercise
+### Exercise 5
 Now let's figure out what this code does.
 
 1. Take a look at the package names and use your helper '?'
 2. Now describe what this code does.
 
 
-### Exercise - installing
+### Exercise 6: installing
 From time to time your installation of R will not know about a package. For instance mine didn't know about 'ca'
 
 When I put in `?ca` i got this ---> `No documentation for ‘ca’ in specified packages and libraries`
