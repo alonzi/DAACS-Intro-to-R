@@ -5,6 +5,7 @@ In this part we are going to dig into some code and investigate what is going on
 ## Variables and Data Structures
 ### Exercise 1
 1. Run the first 30 lines of code. (pete will demonstrate, everyone can follow along, questions encouraged)
+    * [link to code](https://github.com/TJF-Monticello/Chronology/blob/master/MCD-CA%20Code/CA_MCD_URCode.R)
     * load libraries
     * source a file
     * call a function `dbGetQuery`
