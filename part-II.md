@@ -82,7 +82,7 @@ The goal of this exercise is to figure out what this code does.
 
 
 ### Exercise 6: installing
-From time to time your installation of R will not know about a package. For instance on time mine didn't know about 'ca'
+From time to time your installation of R will not know about a package. For instance one time mine didn't know about 'ca'
 
 When I put in `?ca` i got this ---> `No documentation for ‘ca’ in specified packages and libraries`
 
