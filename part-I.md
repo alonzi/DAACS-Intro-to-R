@@ -4,8 +4,8 @@ In this part we will spend our time getting our workspace. Beginners will use RS
 
 ## First time 'useRs'
 We will be using RStudio Cloud.
-1. [Create an account in RStudio Cloud](https://rstudio.cloud/)
-2. RStudio Cloud project link:  https://rstudio.cloud/project/2928062
+1. [Create an account in RStudio Cloud](https://rstudio.cloud/).  Step-by-step instructions [here]. (https://drive.google.com/file/d/1J2slVW2TbG5M1whfNKVgHAypr6hj0J4_/view?usp=sharing)
+2. RStudio Cloud project link: https://rstudio.cloud/project/2928062
 
 ## Pop Quiz
 What is a pirate's favorate programming language?
