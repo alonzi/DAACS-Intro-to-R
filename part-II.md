@@ -57,7 +57,7 @@ Packages are bundles of functions. There is more going on but for the moment a p
 ### Exercise 4
 In this exercise we will make a list of all the packages used in our example code.
 
-1. Click on this link ---> [link](https://github.com/TJF-Monticello/Chronology/blob/master/MCD-CA%20Code/CA_MCD_URCode.R)
+1. Click on this link ---> [link](https://github.com/TJF-Monticello/Chronology/blob/master/MCD-CA%20Code/CA_MCD_URCode.R) (n.b.: it is the same link as the previous exercise)
 2. Write down all of the libraries that are loaded in this code.
 
 
