@@ -99,6 +99,9 @@ If that is the case you need to install the package, this is different from load
 The whole reason we use R is for the packages. Before you try to understand code, understand the packages it uses, that will give great insight into what the code is about.
 
 
+## Bonus Material
+We will take a couple quick polls using the zoom tools. And that will show if we want to hit the following two points.
+
 ### Mini rant time
 So in the first place we use `install.packages`, but then to load we use `library` and also the first time we put the name of the package in quotes? But the good news is we could have used the quotes inside of library. So that's cool but we can't not use the quotes inside of install.packages? I give up.
 
