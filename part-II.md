@@ -63,14 +63,14 @@ In this exercise we will make a list of all the packages used in our example cod
 
 
 Answer: 
-library(RPostgreSQL)
-library(dplyr)
-library(tidyr)
-library(reshape2)
-library (plotrix)
-library(ggplot2)
-library(tidyverse)
-library(readxl)
+* library(RPostgreSQL)
+* library(dplyr)
+* library(tidyr)
+* library(reshape2)
+* library (plotrix)
+* library(ggplot2)
+* library(tidyverse)
+* library(readxl)
 
 
 
