@@ -6,6 +6,9 @@ In this part we will spend our time getting our workspace. Beginners will use RS
 We will be using RStudio Cloud.
 1. [Create an account in RStudio Cloud](https://rstudio.cloud/)
 
+## Pop Quiz
+What is a pirate's favorate programming language?
+
 ## Game Plan
 1. Pete will lead a guided tour of RStudio - (core takeaway: type code into console and see what happens)
 2. Everyone else will interrupt Pete with questions
