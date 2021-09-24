@@ -76,7 +76,7 @@ library(ggrepel)
 
 
 ### Exercise 5
-Now let's figure out what this code does.
+The goal of this exercise is to figure out what this code does.
 
 1. Take a look at the package names and use your helper '?'
 2. Now describe what this code does.
