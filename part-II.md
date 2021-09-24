@@ -30,7 +30,7 @@ In this exercise we will attempt to do one thing. Find functions in code. Fortun
 For Example:
 * c(1,2,3)
 * sum(1,2,3)
-* EstimateMCD(dataForMCD$unitData, dataForMCD$typeData)
+* read.csv('filename.csv')
 
 Everytime a function is used there is a name followed by a '('
 
