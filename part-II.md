@@ -41,7 +41,7 @@ Now let's go hunting
 3. Read the code but don't try to understand anything, just identify functions. For everyone you see record the line number and the function
     * eg: line 10, library
     * eg: line 11, library
-    * eg: line 33, dbGetQuery
+    * eg: line 29, summarise
 
 3. Ask yourself, what percent of lines in this code have a function?
 
