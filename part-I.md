@@ -20,10 +20,10 @@ What is a pirate's favorate programming language?
 ![](https://github.com/alonzi/DAACS-Intro-to-R/blob/ccac08ef4b1fab0a6dc7fe976a2c642c3be7e1a0/glinda.png)
 
 
+# [on to part II](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/part-II.md)
 
 
 
-
-## Installation
+### Installation to try out later
 If you want to install R and RStudio on your computer here is the link
 1. Go [here to download R and RStudio](https://www.rstudio.com/products/rstudio/download/#download) - **NB** They are separate downloads and installs
