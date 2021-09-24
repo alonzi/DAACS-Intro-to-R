@@ -2,6 +2,9 @@
 # Part II: Reading code
 In this part we will get to know the main R building blocks: Functions, Packages, Variables, and Data Structures. More importantly we will learn some R helpers, double most importantly '?'.
 
+* Objective: Begin the work of R literacy.
+* Why?: How can you program in R before you can read in R?
+
 ## Functions
 In R a function is your main tool. Every function is designed to do one specific thing and hopefully has a name that makes it clear what the function does.
 
