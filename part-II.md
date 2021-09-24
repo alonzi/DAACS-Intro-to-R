@@ -67,11 +67,10 @@ library(RPostgreSQL)
 library(dplyr)
 library(tidyr)
 library(reshape2)
-library (ca)
 library (plotrix)
 library(ggplot2)
-library(viridis)
-library(ggrepel)
+library(tidyverse)
+library(readxl)
 
 
 
