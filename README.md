@@ -3,7 +3,7 @@ This repository contains the materials for Lesson 1 of the DAACS Fall 2021 Short
 
 ## Goals
 Everyone will:
-1. leave the lesson with a functional R environment using RStudio.
+1. leave the lesson with a functional understanding of the R environment using RStudio.
 2. be comfortable or at least on their way to being comfortable with R and Rstudio.
 3. be equipped to find solutions to the problems they encounter using R.
 
