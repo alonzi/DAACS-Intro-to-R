@@ -17,7 +17,7 @@ What is a pirate's favorate programming language?
 1. write our first program - 'hello world'
 2. working directories and paths and files ..... oh my.
 
-
+![](https://github.com/alonzi/DAACS-Intro-to-R/blob/ccac08ef4b1fab0a6dc7fe976a2c642c3be7e1a0/glinda.png)
 
 
 
