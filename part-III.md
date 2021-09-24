@@ -11,8 +11,8 @@ In this part we are going to dig into some code and investigate what is going on
 
 ### Exercise 2
 1. Take a look at the Environment panel
-2. Investigate MCDTypeTable with the GUI
-3. Investigate MCDTypeTable with code
+2. Investigate `StewartCastleVillage` with the GUI
+3. Investigate `StewartCastleVillage` with code
    * use typeof(...)
    * use length(...)
 
