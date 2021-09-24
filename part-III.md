@@ -26,3 +26,6 @@ In this part we are going to dig into some code and investigate what is going on
 
 ### Takeaway
 Variables are labels that we create to make handling objects easier. We have many tricks to help us remember what a variable represents.
+
+
+## [On to part IV](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/part-IV.md)
