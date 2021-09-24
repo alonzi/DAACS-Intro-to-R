@@ -47,7 +47,8 @@ Now let's go hunting
 
 
 ### Takeaway
-That's the thing about R programming. Everything you do is a function. (for the nerds: we call R programming 'functional'). The key step here is recognizing a function when you see one.
+* Everything you do is a function. (for the nerds: we call R programming 'functional programming').
+* The key step here is recognizing a function when you see one.
 
 
 ## Packages (aka bundles of functions)
