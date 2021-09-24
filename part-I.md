@@ -1,6 +1,6 @@
 
 # Part I: Getting up and Running
-In this part we will spend our time getting our workspace. Beginners will use RStudio Cloud, if you already have R and RStudio installed on your computer you may use that.
+In this part we will spend our time getting our workspace. Beginners will use RStudio Cloud, if you already have R and RStudio installed on your computer and prefer to use that you may (you will have to download the materials from the github page).
 
 ## First time 'useRs'
 We will be using RStudio Cloud.
