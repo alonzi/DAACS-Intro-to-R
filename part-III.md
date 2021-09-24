@@ -9,6 +9,12 @@ In this part we are going to dig into some code and investigate what is going on
     * load libraries
     * call a function `read.csv`
 
+### Let's talk about `<-`
+1. Take a look at line 19 in the code
+2. What do you not understand?
+
+**Takeaway:** The `<-` operator 'catches' the output of functions and stores them in variables.
+
 ### Exercise 2
 1. Take a look at the Environment panel
 2. Investigate `StewartCastleVillage` with the GUI
