@@ -5,7 +5,7 @@ In this part we are going to dig into some code and investigate what is going on
 ## Variables and Data Structures
 ### Exercise 1
 1. Run the first 30 lines of code. (pete will demonstrate, everyone can follow along, questions encouraged)
-    * [link to code](https://github.com/TJF-Monticello/Chronology/blob/master/MCD-CA%20Code/CA_MCD_URCode.R) (n.b. still the same code as previous exercises)
+    * [link to code](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/RWorkshop1_SCV.R) (n.b. still the same code as previous exercises)
     * load libraries
     * call a function `read.csv`
 
