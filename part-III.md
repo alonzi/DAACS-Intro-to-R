@@ -2,7 +2,7 @@
 # Part III: Variables and Data Structures
 In this part we are going to dig into some code and investigate what is going on. Along the way we will learn about variables and data structures. We will focus on Lines 15-19 in our sample code. I will guide you through the exercises.
 
-## Exercise 1
+## Exercise 1 - Variables
 1. In the File left click 'SCV_BasicInventory.csv' and select "view file"
 2. Explore the output that appears in editor window
 
@@ -25,7 +25,7 @@ By comparing the function call and the variable we created you can see that we g
 
 ### Heuristic: The `<-` operator 'catches' the output of functions and stores them in variables.
 
-## Exercise 2
+## Exercise 2 - Data Structures
 1. Take a look at the Environment panel
 2. Investigate `StewartCastleVillage` with the GUI
 3. Investigate `StewartCastleVillage` with code
@@ -36,5 +36,6 @@ By comparing the function call and the variable we created you can see that we g
 
 ### Takeaway: Variables are labels that we create to make handling objects easier. We have many tricks to help us remember what a variable represents.
 
+## And now for an Interlude about Domain Knowledge
 
 ## [On to part IV](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/part-IV.md)
