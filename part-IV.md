@@ -1,4 +1,6 @@
 
+goal: L21-66
+
 # Part IV: Using code to accomplish a task
 We have a goal in mind before we sit down to write some code, for example:
 * compute summary statistics
