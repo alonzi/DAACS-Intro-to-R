@@ -22,14 +22,13 @@ In these steps we will explore the value of functions.
 2. Run line 18
 3. Enter `StewartCastleVillage` into the console and hit enter.
 
-By comparing the function call and the variable we created you can see that we get the same result in the console.
+By comparing the function call and the variable we created you can see that we get the same result in the console. But now we have a peristent object, our variable, `StewartCastleVillage` for later use. It is not fleeting like the result of the function, you can see it in the Environment tab.
 
 ### Heuristic: The `<-` operator 'catches' the output of functions and stores them in variables.
 
 ## Exercise 2 - Data Structures
-Now that we have finished getting our data from the csv file into a data frame in memory we can explain what a data frame is with examples.
+Now that we have finished getting our data from the csv file into a variable in memory we can explore the structure of that variable.
 
-**Jargon Note:** Formally we have created a 'tibble' and it falls into a general cateogry of data structure called a data frame.
 
 1. Take a look at the Environment panel and expand the `StewartCastleVillage` entry
 2. Click on  `StewartCastleVillage` to open it in the editor window
@@ -41,7 +40,11 @@ Now that we have finished getting our data from the csv file into a data frame i
 
 4. If we haven't seen an error message yet we will talk about error messages
 
-### Heuristic: A data frame is a csv file stored in memory (with superpowers).
+### Heuristic: A tibble is a csv file stored in memory (with superpowers).
+
+**Jargon Note:** Formally we have created a 'tibble' and it falls into a general cateogry of data structure called a data frame. To quote Hadley "Tibbles are data frames"
+
+
 
 ## And now for an Interlude about Domain Knowledge
 
