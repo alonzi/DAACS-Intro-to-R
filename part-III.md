@@ -26,6 +26,10 @@ By comparing the function call and the variable we created you can see that we g
 ### Heuristic: The `<-` operator 'catches' the output of functions and stores them in variables.
 
 ## Exercise 2 - Data Structures
+Now that we have finished getting our data from the csv file into a data frame in memory we can explain what a data frame is with example.
+
+** Jargon Note: ** Formally we have created a 'tibble' and it falls into a general cateogry of data structure called a data frame.
+
 1. Take a look at the Environment panel
 2. Investigate `StewartCastleVillage` with the GUI
 3. Investigate `StewartCastleVillage` with code
@@ -34,7 +38,7 @@ By comparing the function call and the variable we created you can see that we g
 
 4. If we haven't seen an error message yet we will talk about error messages
 
-### Heuristic: A data frame
+### Heuristic: A data frame is a csv file stored in memory (with superpowers).
 
 ## And now for an Interlude about Domain Knowledge
 
