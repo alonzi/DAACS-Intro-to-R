@@ -13,18 +13,14 @@ In this exercise we look at L34-35 and the `summarise` function
     * https://www.rdocumentation.org/packages/dplyr/versions/0.7.8/topics/summarise
 
 
+## Exercise 2 - `group_by(...)`
+Now we explore grouping in our dataset. Warning: This is tricky.
+1. Run Line 39
+2. Explore the result (a new variable named `SCVArtCat`)
+3. Compare `SCVArtCat` and `SCVTotalArts`
+4. Compare sum(SCVArtCat$Count) and `SCVTotalArts`
 
-
-
-
-We have a goal in mind before we sit down to write some code, for example:
-* compute summary statistics
-* make a visualization
-* stop climate change
-
-The tricky part is that often it is easy to say what we want in english but hard to write the code to accomplish that task.
-
-**Exercise 1:**
-1. Write down a goal you would like to accomplish in your life.
-2. Write the code to achieve that goal.
+## Exercise 3 - `ggplot(...)`
+Finally we will make a plot to show our data. This is very complicated so we are going to break it down piece by piece.
+1. Goto line 49 and follow along
 
