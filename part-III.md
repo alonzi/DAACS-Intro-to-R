@@ -56,7 +56,7 @@ We are going to look at a couple functions that help to describe data frames.
 
 &nbsp;
 
-### And now for an Interlude about Domain Knowledge
+### ... And now for an Interlude about Domain Knowledge ...
 
 &nbsp;
 
