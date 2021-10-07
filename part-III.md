@@ -54,10 +54,7 @@ We are going to look at a couple functions that help to describe data frames.
 
 ### Heuristic: A tibble is a csv file stored in memory (and it has superpowers).
 
-$~$
-$~$
-$~$
-$~$
+&nbsp;
 
 ## And now for an Interlude about Domain Knowledge
 
