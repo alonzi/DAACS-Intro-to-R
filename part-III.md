@@ -8,10 +8,10 @@ In this part we are going to dig into some code and investigate what is going on
 
 3. Exampine Line 18, but do not run it. Let's break it down.
 `StewartCastleVillage  <- read_csv("SCV_BasicInventory.csv")`
-  * 3 parts
-    * the variable `StewartCastleVillage`
-    * this thing `<-`
-    * a function call `read_csv("SCV_BasicInventory.csv")`
+    * 3 parts
+      * the variable `StewartCastleVillage`
+      * this thing `<-`
+      * a function call `read_csv("SCV_BasicInventory.csv")`
 
 
 5. Run the first 30 lines of code. (pete will demonstrate, everyone can follow along, questions encouraged)
