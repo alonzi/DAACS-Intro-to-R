@@ -41,13 +41,13 @@ In the next part of the exercise we will explore `StewartCastleVillage`. It is d
 
 We are going to look at a couple functions that help to describe data frames.
 
-1. enter class(`StewartCastleVillage`) into the console
-2. enter typeof(`StewartCastleVillage`) into the console
-3. enter typeof(`StewartCastleVillage$
+1. enter `class(StewartCastleVillage)` into the console
+2. enter `typeof(StewartCastleVillage)` into the console
+3. enter `typeof(`StewartCastleVillage$`
     * nb: do not hit enter, look at what pops up
-    * typeof(StewartCastleVillage$Count)
-5. length(StewartCastleVillage)
-6. length(StewartCastleVillage$ProjectName)
+    * `typeof(StewartCastleVillage$Count)`
+5. `length(StewartCastleVillage)`
+6. `length(StewartCastleVillage$ProjectName)`
 
 
 
