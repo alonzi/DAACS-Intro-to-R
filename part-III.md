@@ -54,15 +54,12 @@ We are going to look at a couple functions that help to describe data frames.
 
 ### Heuristic: A tibble is a csv file stored in memory (and it has superpowers).
 
-
-####
-####
-####
+$~$
+$~$
+$~$
+$~$
 
 ## And now for an Interlude about Domain Knowledge
 
-####
-####
-####
 
 ## [On to part IV](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/part-IV.md)
