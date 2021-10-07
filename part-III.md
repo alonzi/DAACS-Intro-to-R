@@ -14,9 +14,9 @@ In this part we are going to dig into some code and investigate what is going on
       * a function call `read_csv("SCV_BasicInventory.csv")`
 
 4. Let's start with the function, enter the function call into the console and run it.
-5. Now comes the value of a variable. It lets us hold onto the results of our function.
 
 ### Variables and this thing `<-`
+In these steps we will explore the value of functions.
 1. Take a look at line 18 again `StewartCastleVillage  <- read_csv("SCV_BasicInventory.csv")`
 2. Run line 18
 3. Enter `StewartCastleVillage` into the console and hit enter.
