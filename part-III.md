@@ -45,7 +45,7 @@ We are going to look at a couple functions that help to describe data frames.
 2. enter typeof(`StewartCastleVillage`) into the console
 3. enter typeof(`StewartCastleVillage$
     * nb: do not hit enter, look at what pops up
-4. typeof(StewartCastleVillage$Count)
+    * typeof(StewartCastleVillage$Count)
 5. length(StewartCastleVillage)
 6. length(StewartCastleVillage$ProjectName)
 
