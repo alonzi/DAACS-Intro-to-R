@@ -60,6 +60,3 @@ We are going to look at a couple functions that help to describe data frames.
 ## And now for an Interlude about Domain Knowledge
 
 ## [On to part IV](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/part-IV.md)
-
-### Bonus: Transpose
-a,b,c --> axb (c)
