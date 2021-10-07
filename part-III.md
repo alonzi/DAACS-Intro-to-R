@@ -1,9 +1,8 @@
 
-# Part III: Investigating Code
-In this part we are going to dig into some code and investigate what is going on. Our main goal will be to understand what is going on in R for the first 30 lines of our sample code. In this will will also dig into the concept of variables and types and the more complicated structures we can build from them.
+# Part III: Variables and Data Structures
+In this part we are going to dig into some code and investigate what is going on. Along the way we will learn about variables and data structures.
 
-## Variables and Data Structures
-### Exercise 1
+## Exercise 1
 1. Run the first 30 lines of code. (pete will demonstrate, everyone can follow along, questions encouraged)
     * [link to code](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/RWorkshop1_SCV.R) (n.b. still the same code as previous exercises)
     * load libraries
@@ -15,7 +14,7 @@ In this part we are going to dig into some code and investigate what is going on
 
 **Takeaway:** The `<-` operator 'catches' the output of functions and stores them in variables.
 
-### Exercise 2
+## Exercise 2
 1. Take a look at the Environment panel
 2. Investigate `StewartCastleVillage` with the GUI
 3. Investigate `StewartCastleVillage` with code
