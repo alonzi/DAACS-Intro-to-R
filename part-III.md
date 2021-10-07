@@ -34,8 +34,11 @@ By comparing the function call and the variable we created you can see that we g
 
 4. If we haven't seen an error message yet we will talk about error messages
 
-### Takeaway: Variables are labels that we create to make handling objects easier. We have many tricks to help us remember what a variable represents.
+### Heuristic: A data frame
 
 ## And now for an Interlude about Domain Knowledge
 
 ## [On to part IV](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/part-IV.md)
+
+### Bonus: Transpose
+a,b,c --> axb (c)
