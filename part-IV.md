@@ -1,6 +1,3 @@
-
-goal: L21-66
-
 # Part IV: Using code to accomplish a task
 In this part we will explore Lines 21-66 in the sample code (and maybe more). In these lines the DAACS team performs common analysis techniques including summarising and graphing.
 
@@ -24,3 +21,4 @@ Now we explore grouping in our dataset. Warning: This is tricky.
 Finally we will make a plot to show our data. This is very complicated so we are going to break it down piece by piece.
 1. Goto line 49 and follow along
 
+## Wrap up Q&A
