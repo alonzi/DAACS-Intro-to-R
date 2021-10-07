@@ -36,14 +36,17 @@ Now that we have finished getting our data from the csv file into a variable in 
 
 In the next part of the exercise we will explore `StewartCastleVillage`. It is data that we have put into a structure called a data frame.
 
-**Jargon Note:** Formally we have created a 'tibble' and it falls into a general cateogry of data structure called a data frame. To quote Hadley "Tibbles are data frames"
+**Jargon Note:** Formally we have created a 'tibble' and it falls into a general cateogry of data structure called a data frame. To quote Hadley, "Tibbles are data frames, but they tweak some older behaviours to make life a little easier."
 
 
-4. 
-5. Investigate `StewartCastleVillage` with the GUI
-6. Investigate `StewartCastleVillage` with code
-   * use typeof(...)
-   * use length(...)
+We are going to look at a couple functions that help to describe data frames.
+
+1. enter class(`StewartCastleVillage`) into the console
+2. enter typeof(`StewartCastleVillage`) into the console
+3. enter typeof(`StewartCastleVillage$
+    * nb: do not hit enter, look at what pops up
+4. typeof(StewartCastleVillage$Count)
+
 
 4. If we haven't seen an error message yet we will talk about error messages
 
