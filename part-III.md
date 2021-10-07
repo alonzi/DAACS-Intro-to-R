@@ -4,7 +4,17 @@ In this part we are going to dig into some code and investigate what is going on
 
 ## Exercise 1
 1. In the File left click 'SCV_BasicInventory.csv' and select "view file"
-1. Run the first 30 lines of code. (pete will demonstrate, everyone can follow along, questions encouraged)
+2. Explore the output that appears in editor window
+
+3. Exampine Line 18, but do not run it. Let's break it down.
+`StewartCastleVillage  <- read_csv("SCV_BasicInventory.csv")`
+  * 3 parts
+    * the variable `StewartCastleVillage`
+    * this thing `<-`
+    * a function call `read_csv("SCV_BasicInventory.csv"`
+
+
+5. Run the first 30 lines of code. (pete will demonstrate, everyone can follow along, questions encouraged)
     * [link to code](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/RWorkshop1_SCV.R) (n.b. still the same code as previous exercises)
     * load libraries
     * call a function `read.csv`
