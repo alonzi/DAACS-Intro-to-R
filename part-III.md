@@ -1,8 +1,9 @@
 
 # Part III: Variables and Data Structures
-In this part we are going to dig into some code and investigate what is going on. Along the way we will learn about variables and data structures.
+In this part we are going to dig into some code and investigate what is going on. Along the way we will learn about variables and data structures. We will focus on Lines 15-19 in our sample code.
 
 ## Exercise 1
+1. In the File left click 'SCV_BasicInventory.csv' and select "view file"
 1. Run the first 30 lines of code. (pete will demonstrate, everyone can follow along, questions encouraged)
     * [link to code](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/RWorkshop1_SCV.R) (n.b. still the same code as previous exercises)
     * load libraries
