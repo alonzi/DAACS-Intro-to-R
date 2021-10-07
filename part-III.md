@@ -30,11 +30,18 @@ By comparing the function call and the variable we created you can see that we g
 Now that we have finished getting our data from the csv file into a variable in memory we can explore the structure of that variable.
 
 
-1. Take a look at the Environment panel and expand the `StewartCastleVillage` entry
+1. Take a look at the Environment panel and expand the `StewartCastleVillage` entry. Explore
 2. Click on  `StewartCastleVillage` to open it in the editor window
-3. Compare the csv file and the variable in the editor
-4. Investigate `StewartCastleVillage` with the GUI
-5. Investigate `StewartCastleVillage` with code
+3. Compare the csv file and the variable in the editor (same data, easier to use)
+
+In the next part of the exercise we will explore `StewartCastleVillage`. It is data that we have put into a structure called a data frame.
+
+**Jargon Note:** Formally we have created a 'tibble' and it falls into a general cateogry of data structure called a data frame. To quote Hadley "Tibbles are data frames"
+
+
+4. 
+5. Investigate `StewartCastleVillage` with the GUI
+6. Investigate `StewartCastleVillage` with code
    * use typeof(...)
    * use length(...)
 
@@ -42,7 +49,6 @@ Now that we have finished getting our data from the csv file into a variable in 
 
 ### Heuristic: A tibble is a csv file stored in memory (and it has superpowers).
 
-**Jargon Note:** Formally we have created a 'tibble' and it falls into a general cateogry of data structure called a data frame. To quote Hadley "Tibbles are data frames"
 
 
 
