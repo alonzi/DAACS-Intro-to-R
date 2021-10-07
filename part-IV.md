@@ -6,7 +6,11 @@ In this part we will explore Lines 21-66 in the sample code (and maybe more). In
 
 ## Exercise 1 - `summarise(...)`
 In this exercise we look at L34-35 and the `summarise` function
-
+1. Run Line 34
+2. Explore the result (a new variable named `SCVTotalArts`)
+3. Breakdown how the `summarise(...)` function works
+    * find the documentation using google
+    * https://www.rdocumentation.org/packages/dplyr/versions/0.7.8/topics/summarise
 
 
 
