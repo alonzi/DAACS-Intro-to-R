@@ -23,7 +23,7 @@ In this part we are going to dig into some code and investigate what is going on
 
 By comparing the function call and the variable we created you can see that we get the same result in the console.
 
-### Takeaway: The `<-` operator 'catches' the output of functions and stores them in variables.
+### Heuristic: The `<-` operator 'catches' the output of functions and stores them in variables.
 
 ## Exercise 2
 1. Take a look at the Environment panel
