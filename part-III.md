@@ -30,9 +30,11 @@ Now that we have finished getting our data from the csv file into a data frame i
 
 **Jargon Note:** Formally we have created a 'tibble' and it falls into a general cateogry of data structure called a data frame.
 
-1. Take a look at the Environment panel
-2. Investigate `StewartCastleVillage` with the GUI
-3. Investigate `StewartCastleVillage` with code
+1. Take a look at the Environment panel and expand the `StewartCastleVillage` entry
+2. Click on  `StewartCastleVillage` to open it in the editor window
+3. Compare the csv file and the variable in the editor
+4. Investigate `StewartCastleVillage` with the GUI
+5. Investigate `StewartCastleVillage` with code
    * use typeof(...)
    * use length(...)
 
