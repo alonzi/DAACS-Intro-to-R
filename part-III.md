@@ -14,6 +14,7 @@ In this part we are going to dig into some code and investigate what is going on
       * a function call `read_csv("SCV_BasicInventory.csv")`
 
 4. Let's start with the function, enter the function call into the console and run it.
+5. Explore the output it produces.
 
 ### Variables and this thing `<-`
 In these steps we will explore the value of functions.
