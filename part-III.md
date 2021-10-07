@@ -6,7 +6,7 @@ In this part we are going to dig into some code and investigate what is going on
 1. In the File left click 'SCV_BasicInventory.csv' and select "view file"
 2. Explore the output that appears in editor window
 
-3. Exampine Line 18, but do not run it. Let's break it down.
+3. Examine Line 18, but do not run it. Let's break it down.
 `StewartCastleVillage  <- read_csv("SCV_BasicInventory.csv")`
     * 3 parts
       * the variable `StewartCastleVillage`
@@ -14,15 +14,14 @@ In this part we are going to dig into some code and investigate what is going on
       * a function call `read_csv("SCV_BasicInventory.csv")`
 
 4. Let's start with the function, enter the function call into the console and run it.
-5. 
-6. Run the first 30 lines of code. (pete will demonstrate, everyone can follow along, questions encouraged)
-    * [link to code](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/RWorkshop1_SCV.R) (n.b. still the same code as previous exercises)
-    * load libraries
-    * call a function `read.csv`
+5. Now comes the value of a variable. It lets us hold onto the results of our function.
 
-### Let's talk about `<-`
-1. Take a look at line 19 in the code
-2. What do you not understand?
+### Variables and this thing `<-`
+1. Take a look at line 18 again `StewartCastleVillage  <- read_csv("SCV_BasicInventory.csv")`
+2. Run line 18
+3. Enter `StewartCastleVillage` into the console and hit enter.
+
+By comparing the function call and the variable we created you can see that we get the same result in the console.
 
 ### Takeaway: The `<-` operator 'catches' the output of functions and stores them in variables.
 
