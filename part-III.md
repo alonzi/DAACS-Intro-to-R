@@ -40,7 +40,7 @@ Now that we have finished getting our data from the csv file into a variable in 
 
 4. If we haven't seen an error message yet we will talk about error messages
 
-### Heuristic: A tibble is a csv file stored in memory (with superpowers).
+### Heuristic: A tibble is a csv file stored in memory (and it has superpowers).
 
 **Jargon Note:** Formally we have created a 'tibble' and it falls into a general cateogry of data structure called a data frame. To quote Hadley "Tibbles are data frames"
 
