@@ -46,9 +46,11 @@ We are going to look at a couple functions that help to describe data frames.
 3. enter typeof(`StewartCastleVillage$
     * nb: do not hit enter, look at what pops up
 4. typeof(StewartCastleVillage$Count)
+5. length(StewartCastleVillage)
+6. length(StewartCastleVillage$ProjectName)
 
 
-4. If we haven't seen an error message yet we will talk about error messages
+
 
 ### Heuristic: A tibble is a csv file stored in memory (and it has superpowers).
 
