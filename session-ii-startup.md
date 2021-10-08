@@ -1,5 +1,5 @@
 # Welcome to Session 2: Variables, Data Frames, and graphics
-Welcome back! And if you are new, welcome. In this session we are going to get into a few more fundamental R concepts and then roll up our sleeves and get into the good stuff.
+Welcome back! And if you are new, welcome! In this session we are going to get into a few more fundamental R concepts and then roll up our sleeves and get into the good stuff.
 
 ## A quick recap of topic from last time
 * Guided tour of RStudio (using RStudio Cloud)
