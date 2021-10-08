@@ -30,6 +30,8 @@ By comparing the function call and the variable we created you can see that we g
 
 ![](https://github.com/alonzi/DAACS-Intro-to-R/blob/main/r-pac-man.jpg)
 
+### A note about variable names - clarity and brevity
+
 ## Exercise 2 - Data Structures
 Now that we have finished getting our data from the csv file into a variable in memory we can explore the structure of that variable.
 
