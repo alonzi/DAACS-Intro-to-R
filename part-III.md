@@ -2,6 +2,8 @@
 # Part III: Variables and Data Structures
 In this part we are going to dig into some code and investigate what is going on. Along the way we will learn about variables and data structures. We will focus on Lines 15-19 in our sample code. I will guide you through the exercises.
 
+* We will use a new R project for these exercises, please access it here: https://rstudio.cloud/project/2983017
+
 ## Exercise 1 - Variables
 1. In the File left click 'SCV_BasicInventory.csv' and select "view file"
 2. Explore the output that appears in editor window
